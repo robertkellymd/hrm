@@ -11,11 +11,11 @@
 #' @date May 8, 2026
 #' @license MIT
 
-source("Rscripts/Common_tools_v8.R")
-source("Rscripts/Binary_tools_v8.R")
-source("Rscripts/Main_binary_v8.R")
-source("Rscripts/Nonbinary_tools_v8.R")
-source("Rscripts/Main_nonbinary_v8.R")
+source("R/Common_tools.R")
+source("R/Binary_tools.R")
+source("R/Main_binary.R")
+source("R/Nonbinary_tools.R")
+source("R/Main_nonbinary.R")
 
 # Hyp_race_params data frame contains parameters for the Hypothesis Race simulation.
 # Those parameters are:
